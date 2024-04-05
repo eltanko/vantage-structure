@@ -17,5 +17,5 @@ provider "vantage" {
 }
 
 provider "azurerm" {
-    features {}
+  features {}
 }

@@ -5,5 +5,5 @@ variable "workspace_token" {
 }
 
 variable "api_token" {
-  
- }
+
+}
