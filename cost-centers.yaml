@@ -1,32 +1,32 @@
 cost_centers:
-  security-operations-cc:
-    business_unit: Cybersecurity
-    team: Security Operations
+  food-ecommerce-cc:
+    business_unit: Customer Products
+    team: Food eCommerce
 
-  account-management-cc:
-    business_unit: Financial Technology
-    team: Account Management
+  store-and-sell-cc:
+    business_unit: Colleague Products
+    team: Store and Sell
 
-  network-operations-cc:
-    business_unit: Infrastructure Services
-    team: Network Operations
+  networks-cc:
+    business_unit: Infrastructure
+    team: Networks
 
-  data-center-management-cc:
-    business_unit: Infrastructure Services
-    team: Data Center Management
+  integration-cc:
+    business_unit: Infrastructure
+    team: Integration
 
-  software-engineering-cc:
+  cloud-hosting-cc:
     business_unit: Engineering
-    team: Software Engineering
+    team: Cloud Hosting
 
-  hardware-engineering-cc:
+  engeineering-productivity-cc:
     business_unit: Engineering
-    team: Hardware Engineering
+    team: Engineering Productivity
 
-  research-labs-cc:
-    business_unit: Research & Development
-    team: Research Labs
+  ecommerce-platform-cc:
+    business_unit: Business Platforms
+    team: E-Commerce Platform
 
-  innovation-cc:
-    business_unit: Research & Development
-    team: Innovation Center
+  data-engineering-cc:
+    business_unit: Data Enablement
+    team: Data Engineering
