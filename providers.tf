@@ -3,11 +3,11 @@ terraform {
     vantage = {
       source = "vantage-sh/vantage"
     }
-      azurerm = {
-        source = "hashicorp/azurerm"
-        version = ">=3.0"
-      }
-    
+    azurerm = {
+      source  = "hashicorp/azurerm"
+      version = ">=3.0"
+    }
+
 
   }
 }
